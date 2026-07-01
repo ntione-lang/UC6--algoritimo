@@ -1,0 +1,18 @@
+Ir ao Senac! Faça um algoritimo com a sua rota, desde sair de casa até chegar ao Senac.
+
+1.Abrir a Porta de casa
+2. Pegar a chave na bolsa
+3. destravar o carro
+5. abrir a porta do carro
+6. Ligar o carro
+7. Descer a rua Santa Terezinha
+8. Acessar o parque Ceci cunha
+9. Virar a esquerda 
+10. Dirigir por 20 mts e entrar a esquerda novamente
+11. Dirigir por 10 mts e entrar a direita
+12. Estacionar o carro
+13. Descer do carro
+14. Entrar no prédio do Senac
+15. Passar na Catraca
+16. Subir as escadas
+17. Entrar no laboratório 06

@@ -1,0 +1,37 @@
+Os vizinhos
+Leia um número numérico.
+Calcule e exiba o número exato anterior e o posterior a ele.
+
+Descrição narrativa.
+
+1. Iniciar o algoritimo
+2. Solicitar ao usuário que informe um número.
+3. Ler o número informado.
+4. Calcular o número anterior, subtraindo 1 do número informado.
+5. Calcular o número posterior, somando 1 ao número informado.
+6. Exibir o número anterior.
+7. Exibir o número posterior.
+8. Encerrar o algoritmo.
+
+
+
+A conta da Pizzaria
+Leia o valor total de uma conta e a quantidade de clientes na mesa.
+Informe  quanto cada um deve pagar.
+
+Descrição narrativa
+
+1. Iniciar o algoritmo.
+2. Solicitar ao usuário o valor total da conta.
+3. Ler o valor total da conta.
+4. Solicitar ao usuário a quantidade de clientes na mesa.
+5. Ler a quantidade de clientes.
+6. Calcular o valor que cada cliente deve pagar, dividindo o valor total da conta pela quantidade de clientes.
+7. Exibir o valor que cada cliente deverá pagar.
+8. Encerrar o algoritmo.
+
+
+Opções de pagamento
+
+Leia o preço de um produto.
+Exiba o valor à vista(com 10% de desconto) e o valor parcelado em 3x.

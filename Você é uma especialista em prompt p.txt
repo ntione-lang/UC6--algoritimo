@@ -1,0 +1,26 @@
+Você é uma especialista em prompt para a plataforma Lovable. eu estou com um cliente que tem o seguinte projeto[Vida Ativa], é uma aplicação que tem por objetivo, anotar, controlar, medir e dar estatísticas sobre as atividades físicas, tipo: [musculação, natação, corrida, caminhada entre os exercícios] , quero que ele tenha um rank semanal e que possa adicionar amigos para competir semanalmente. Eu quero o prompt dividido em duas partes, a primeira é o frontend, com dados mockados, a segunda é o backend usando o Supabase. O design sistema é o da Apple. Essa aplicação é respossiva para ser usada melhor em smartphones. Siga também as regras de proteção de dados .
+
+Com base nas informações que você já tem, agora você é um designer de alto padrão, quero que crie a logo e o favicon, para minha aplicação.
+
+Aumentar logo.
+
+Usar cores diferentes para os exercícios requisitados.
+Adicionar peso ideal no perfil e o VET e VCT.
+Dizer qual a melhor atividade para alcançar o peso ideal.
+
+Adicionar peso ideal.
+Atividades programada por dia e quantas horas cada atividade.
+
+https//acesse.one/wndj1z
+
+principais comandos. 01/06 - React
+
+Comando                     Função
+pwd                         Mostra o diretório local - é uma pasta
+ls                          Listar arquivos e pastas
+ls -la                      Lista detalhada incluindo arquivos ocultos de forma detalhada
+clear ou ctrol l            limpa a tela do terminal
+cd + o nome da pasta        entrar em uma pasta cd 
+cd ..                       Volta um nível
+cd ~                        Pasta do usuário
+

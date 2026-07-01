@@ -1,0 +1,9 @@
+// Adiciona a tarefa na lista de tarefas
+export function adicionarTarefaNaLista(texto) {
+  const lista = document.querySelector("#lista-tarefas");
+
+  const li = document.createElement("li");
+  li.textContent = texto;
+
+  lista.appendChild(li);
+}

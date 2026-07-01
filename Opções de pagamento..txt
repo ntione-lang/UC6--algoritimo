@@ -1,0 +1,15 @@
+Opções de pagamento.
+
+Leia o preço de um produto.
+Exiba o valor à vista(com 10% de desconto) e o valor parcelado em 3x.
+
+Descrição narrativa
+
+1. Iniciar o algoritmo.
+2. Solicitar ao usuário o preço do produto.
+3. Ler o preço do produto.
+4. Calcular o valor à vista, aplicando um desconto de 10% sobre o preço do produto.
+5. Calcular o valor de cada parcela, dividindo o preço do produto em 3 partes iguais.
+6. Exibir o valor à vista com desconto.
+7. Exibir o valor de cada parcela.
+8. Encerrar o algoritmo.
