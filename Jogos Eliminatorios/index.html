@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogos Eliminatórios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Jogos Eliminatórios</h1>
+
+        <label>Nome do Clube:</label>
+      <input type="text" id="clube" placeholder="Digite o nome do clube">
+
+      <div class="botoes">
+
+        <button onclick="adicionarClube()">Adicionar  clube</button>
+        <button onclick="gerarJogos()">Gerar Jogos</button>
+        <button onclick="limparTudo()">limparTudo</button>
+      </div>
+
+      <h2>Clubes Cadastrados</h2>
+      <div id="listaClubes"></div>
+
+      <h2>Tabela de Jogos</h2>
+      <div id="Tabela de Jogos"></div>
+    </div>
+    <script src="script.js"></script>
+    
+</body>
+</html>
